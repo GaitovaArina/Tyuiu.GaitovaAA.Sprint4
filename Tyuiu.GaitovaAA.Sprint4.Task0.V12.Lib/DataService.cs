@@ -16,7 +16,7 @@ namespace Tyuiu.GaitovaAA.Sprint4.Task0.V12.Lib
                 }
             }
 
-            return mult;
+            return mult; 
         }
     }
 }

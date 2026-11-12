@@ -39,7 +39,7 @@ namespace Tyuiu.GaitovaAA.Sprint4.Task0.V12
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Произведение четных элементов массива = " + ds.GetMultEvenArrEl(numsArray));
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
